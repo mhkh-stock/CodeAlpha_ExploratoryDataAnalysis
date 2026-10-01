@@ -1,0 +1,8 @@
+check,result,records_flagged
+Unexpected values in species,None found,0
+Unexpected values in island,None found,0
+Unexpected values in sex,None found,0
+Non-positive values in bill_length_mm,None found,0
+Non-positive values in bill_depth_mm,None found,0
+Non-positive values in flipper_length_mm,None found,0
+Non-positive values in body_mass_g,None found,0

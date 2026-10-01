@@ -1,0 +1,12 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local work files
+work/
+
+# The generated analysis outputs are intentionally version-controlled so the
+# charts and report are visible immediately on GitHub.

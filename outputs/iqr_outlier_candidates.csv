@@ -1,0 +1,5 @@
+variable,q1,q3,iqr,lower_fence,upper_fence,outlier_candidates,candidate_min,candidate_max
+bill_length_mm,39.225,48.5,9.274999999999999,25.312500000000004,62.412499999999994,0,,
+bill_depth_mm,15.6,18.7,3.0999999999999996,10.95,23.349999999999998,0,,
+flipper_length_mm,190.0,213.0,23.0,155.5,247.5,0,,
+body_mass_g,3550.0,4750.0,1200.0,1750.0,6550.0,0,,
