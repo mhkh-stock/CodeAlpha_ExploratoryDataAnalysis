@@ -201,4 +201,4 @@ After the script runs, `outputs/` contains the following version-controlled visu
 - Add the study year from the fuller Palmer Penguins dataset if time-based comparisons are needed.
 - Compare male and female body mass **within each species** to reduce species as a confounding factor.
 - Decide on a documented missing-data approach before building any predictive model.
-- Keep this EDA as the first notebook/script in a larger data-analysis portfolio project..
+- Keep this EDA as the first notebook/script in a larger data-analysis portfolio project.
